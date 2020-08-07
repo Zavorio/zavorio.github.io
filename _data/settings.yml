@@ -29,7 +29,7 @@ contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
-  send_button_text: 'Get in Touch'
+  send_button_text: 'Say Hi'
 
 social_settings:
   facebook_url: ''
@@ -71,8 +71,8 @@ color_settings:
 
 font_settings:
   font_embed: <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@400;500;700&family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
-  title_font: 'IBM+Plex+Sans+Condensed'
-  body_font: '"IBM+Plex+Sans", sans-serif'
+  title_font: 'IBM Plex Sans Condensed'
+  body_font: '"IBM Plex Sans", sans-serif'
   regular_weight: 400
   bold_weight: 700
   site_title:
