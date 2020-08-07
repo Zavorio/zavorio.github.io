@@ -8,8 +8,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Work'
-      url: '/work'
+    - title: 'Projects'
+      url: '/projects'
     - title: 'Blog'
       url: '/blog/'
 
@@ -61,7 +61,7 @@ social_settings:
 
 color_settings:
   background_color: '#E5EFF1'
-  background_alt_color: '#f4f5f6'
+  background_alt_color: '#BED2D6'
   text_dark_color: '#202224'
   text_medium_color: '#6C7A89'
   text_light_color: '#AEB3BB'
