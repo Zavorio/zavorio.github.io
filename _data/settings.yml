@@ -8,8 +8,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/projects'
+    - title: 'Work
+      url: '/work'
     - title: 'Blog'
       url: '/blog/'
 
@@ -57,7 +57,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: 'https://cr.linkedin.com/in/zavorio'
+  linkedin_url: 'https://linkedin.com/in/zavorio'
 
 color_settings:
   background_color: '#E5EFF1'
