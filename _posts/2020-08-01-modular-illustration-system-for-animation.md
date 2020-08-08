@@ -3,7 +3,7 @@ title: Modular Design System for Animation
 subtitle: High-fidelity mobile app designs for a super awesome social media company.
 date: 2020-08-01 00:00:00
 description: This was a very hard but fun project.
-featured_image: demo.jpg
+featured_image: nil-sample.png
 accent_color: '#4C60E6'
 gallery_images:
   - demo.jpg
