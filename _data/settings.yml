@@ -70,7 +70,7 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:400,500,700|IBM+Plex+Sans:400,700" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather:700|IBM+Plex+Sans:400,700" rel="stylesheet">'
   title_font: 'IBM Plex Sans Condensed, sans-serif'
   body_font: '"IBM Plex Sans", sans-serif'
   regular_weight: 400
