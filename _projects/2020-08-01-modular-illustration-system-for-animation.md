@@ -4,7 +4,7 @@ subtitle: High-fidelity mobile app designs for a super awesome social media comp
 date: 2020-08-01 00:00:00
 description: This was a very hard but fun project.
 featured_image: nil-sample.png
-accent_color: '#4C60E6'
+accent_color: '#5F3A94'
 gallery_images:
   - demo.jpg
   - demo.jpg
