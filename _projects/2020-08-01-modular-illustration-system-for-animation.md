@@ -94,13 +94,16 @@ Consider documenting early and leaving enough lay time toward the end to complet
 ### Credits
 
 **Illustrations**
-Bea Ramirez, Kien Tran, Alejandro Segura, Carlos Saborío
-**Animation Presets**
-Jakub Skuropa, Kien Tran
-**Audio**
-Sebastian Bender
-**Documentation**
-Jakub Skuropa, Alejandro Bonilla, Carlos Saborío
+[Bea Ramírez](https://dribbble.com/Beavaquero), [Nguyen Tran Kien](https://dribbble.com/Stairwaytohell), [Alejandro Bonilla](https://vimeo.com/alejandrobonilla), Carlos Saborío.
+
+**Animation Presets**  
+[Nguyen Tran Kien](https://dribbble.com/Stairwaytohell), [Nguyen Tran Kien](https://dribbble.com/Stairwaytohell).
+
+**Audio**  
+[Sebastian Bender](http://www.sebastianbendermusic.com/about/).
+
+**Documentation**  
+[Jakub Skuropa](https://vimeo.com/jakubskorupa), [Alejandro Bonilla](https://vimeo.com/jakubskorupa), Carlos Saborío.
 
 
 ### Notes
