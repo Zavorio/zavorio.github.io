@@ -95,17 +95,13 @@ Consider documenting early and leaving enough lay time toward the end to complet
 
 #### Illustrations
 Bea Ramirez, Kien Tran, Alejandro Segura, Carlos Saborío
-
 #### Animation Presets
 Jakub Skuropa, Kien Tran
-
 #### Documentation
 Jakub Skuropa, Alejandro Bonilla, Carlos Saborío
 
----
 
 ### Notes
-
 [^1]: A big source of inspiration for the our initial push with how to tackle the system came from this talk by at the Figma XXX. Highly recommend it to anyone who wants to tackle an illustration system in Figma.
 [^2]: We studied tons of freely available illustrations systems built in Figma before building our own. Some of the best ones we ran into are: A, B, C.
 [^3]: For this Knowledge base we wrote it all down in Notion, which is by far my favorite tool for company wikis as using it is effortlessly. Another tool I could recommend although I don't have much real experience with is is Slab.
