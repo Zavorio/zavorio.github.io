@@ -1,7 +1,7 @@
 ---
 title: Modular Design System for Animation
 subtitle: High-fidelity mobile app designs for a super awesome social media company.
-date: 2020-08-01 00:00:00
+date: 2020-09-01 00:00:00
 description: This was a very hard but fun project.
 featured_image: nil-sample.png
 accent_color: '#5F3A94'
@@ -11,102 +11,102 @@ gallery_images:
   - demo.jpg
 ---
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+At Cleverclip explainer videos are our bread and butter. But these are very resources intensive, as there is a lot of back and forth with refining the goal of the video, the  wording and structure of the script, defining the style and the animation approach, etc. This makes it so that even a seemingly simple video has some prohibitive costs for some clients. Specially if they need to produce more than one video.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+Over time we discovered some clients don't really need a one a kind look for all their videos. Many times they simply want a clear and engaging way of conveying their message to their audience, that retains some visual connection to their brand.
 
-![](/nil-sample.png)
+With this in mind in early in 2020 we decided to build a modular illustration system intended to be be used mostly for animation. to cover the needs of these clients looking for more budget friendly alternative.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+I was in charge of managing the conception and production of three sets of libraries of asset that could be used for animation. We called these libraries as well as the entire production pipeline designed for animating these 'Cleverclip Elements'.
+****
 
-You can create lists:
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+### Ground Rules
+The system needed to fit three main requirements:
 
-And:
+* Optimized for fast-turn around to reduce production cost to a minimum. We aimed to be able to offer a considerably cheaper option that what was at the time our least expensive videos. In order to do so we needed to reconsider every aspect of production.
+* Easy to expand upon with newer assets. A lot of effort was gonna be put into these first batch of work, but later down the line we would be probably be making a few custom assets for each video, we needed to be sure that any new design could be easily incorporated into the libraries to be reused in the future [^1].
+* Easy to customize the colors to fit the clients brand. Clients would essentially be using picking from three libraries of premade assets, but we needed to design them so that adjusting them to fit the client brand was lighting fast and looked good with most color combinations.
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+### The tools and their limits
+The initial idea of making such a design system had been floating around for a few years at the company.  Before our main option for housing the assets would have been:
+- A single massive Illustrator file that contained the entire library, which would be hard to browse and easy to disorganize.
+- A shared folder in DB with hundreds of individually exported SVGs that would also  be slow to browse through. and slow to modify in batches (eg: changing the color of all assets to fit the client's brand).
 
-The theme also supports markdown tables:
+For me any of these options was enough of a drag to not consider the viability of such a system to begin with. But after experiencing Figma's capability first hand what was once inconvenient became a breeze, with the right setup.
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+With Figma we could have a live library of assets for which everyone at the company could easily access and modify.
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
 
-You can throw in some horizontal rules too:
+### Style & Scope
+We opted to make three distinct libraries that would cover the needs of most of our clients. The styles were defined based on our experience of working with clients and observing trends online. The style had also to conform to the specifications of the system in Figma.
+
+Each style would have a basic amount of assets to work with that would cover what we knew to be the most elements used in basic explainer videos. We settled for 999 initial assets for each library covering 7 different categories:  each major category: People, Ideas, Places, Nature, Transportation, Buildings & Furniture.
+
+[^3] [^2]
+
+
+### Animation
+For animation, like most studios doing any kind of motion design, we work mostly with After Effects. It was easy to stick to After Effects for production, but we needed to speed things up. We opted to limit the
+
+
+
+### Documentation
+The system was optimized for efficiency but it would only be efficient on the long run if users know how to use it and the make the most out of it.
+
+We like many other companies have had problems keeping tracks of our processes documentation, with new people coming, seniors leaving, constant changes in workflow and tools.
+
+For Elements we made it our goal from the start **to have the whole production process documented from day** one so that any project manager could dig into the knowledge base to understand what the system is in order to sell it better. And that any creative with a working knowledge of After Effects could by themselves read the documentation and understand how to produce and Elements video from start to finish.
+
+This took much longer that expected. But the end result is absolutely worth it, as it was clear for everyone at the company what is the process and end result of an Elements project. The end result if a heft 5000 word live document. This also ended up setting a new standard for how we document other processes at the company.
+
+During the writing process we made sure the Knowledge Base would work for all three major parties involved:
+
+- Creatives on both motion design and illustration who would need to either do animation or assets for Elements projects.
+- Project Managers who would be overseeing the production of an Elements project.
+- Marketers who would be offering this brand new service to potential new clients or go back to clients who couldn't work with us previously because of their budget.
+
+
+
+### Takeaways
+
+#### Be Open
+Form the creative department we initially had a lot of resistance toward this kind of massively produced projects. But what we found is the that investing so much time in the initial design process, making the production process so frictionless, the process became fun and we could invest more time in adding little details to make the animation more dynamic.
+
+#### Think Hard
+Think hard before diving into production We spent a big chunk of time, perhaps 40% of the total of hours put into the project, figuring out the constraints for the system. We didn't want to start producing anything right away and figure out later down the road that the assets made could not be used because of some technical reason.
+
+#### Make it nice
+Branding the individual styles and even the name of the system (Elements), imbues it with . Some client might feel bad about having to opt for the budget option, but when we worked to preset them with very distinct style options with different names as well as custom music tracks that were not simply called song-01, song-02 and song-03, we make the client (and us) feel that they didn't opt for the cheap alternative.
+
+#### Documentation, documentation, documentation
+Writing things down is a must. Big messy systems like Elements are very powerful, but poorly documented they might be hard to catch on company wide or worse, fail at actually be as efficient as originally intended.
+
+Consider documenting early and leaving enough lay time toward the end to complete documentation. Also, consider the different kinds of readers for this documentation inside your organization. The marketing department have and entirely separate set of needs when trying to understand a system like this ('What is so cool about this that will help me sell ir') in comparison to the creatives doing the production labor ('How to I produce an Elements video from start to finish in the fastest way possible').[^4]
+
+- Creatives on both motion design and illustration who would need to either do animation or assets for Elements projects.
+- Project Managers who would be overseeing the production of an Elements project.
+- Marketers who would be offering this brand new service to potential new clients or go back to clients who couldn't work with us previously because of their budget.
+
+### Credits
+
+#### Illustrations
+Bea Ramirez, Kien Tran, Alejandro Segura, Carlos Saborío
+
+#### Animation Presets
+Jakub Skuropa, Kien Tran
+
+#### Documentation
+Jakub Skuropa, Alejandro Bonilla, Carlos Saborío
 
 ---
 
-#### Image galleries
+### Notes
 
-Here's a really neat custom feature we added – galleries:
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
-%}
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
-
-{% raw %}
-```liquid
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
-%}
-```
-{% endraw %}
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
-
-#### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-{% include post-components/gallery.html
-	columns = 1
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
-	"
-%}
-
-#### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-{% include post-components/video.html
-	url = "https://player.vimeo.com/video/270725085?color=6c6e95&title=0&byline=0"
-	full_width = true
-%}
-
-### Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-Why not put them to use on your new website?
-
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get This Theme</a>
+[^1]: A big source of inspiration for the our initial push with how to tackle the system came from this talk by at the Figma XXX. Highly recommend it to anyone who wants to tackle an illustration system in Figma.
+[^2]: We studied tons of freely available illustrations systems built in Figma before building our own. Some of the best ones we ran into are: A, B, C.
+[^3]: For this Knowledge base we wrote it all down in Notion, which is by far my favorite tool for company wikis as using it is effortlessly. Another tool I could recommend although I don't have much real experience with is is Slab.
+[^4]: We created an Airtable to keep track of production as well as for adding visual references for the designers of what each asset had to convey. Context is important here as as a Swiss company, most of our clients are Swiss, so a small rural town has a certain look in Switzerland that is not the same as one in Mexico or Spain, where some of our colleagues live. These references were very helpful to give a clear direction that helped us avoid lots of design revisions.
