@@ -72,7 +72,7 @@ During the writing process we made sure the Knowledge Base would work for all th
 
 
 ### Main Takeaways
-</br>
+<br/>
 ##### Be Open
 Form the creative department we initially had a lot of resistance toward this kind of massively produced projects. But what we found is the that investing so much time in the initial design process, making the production process so frictionless, the process became fun and we could invest more time in adding little details to make the animation more dynamic.
 
