@@ -59,7 +59,7 @@ The system was optimized for efficiency but it would only be efficient on the lo
 
 We like many other companies have had problems keeping tracks of our processes documentation, with new people coming, seniors leaving, constant changes in workflow and tools.
 
-For Elements we made it our goal from the start **to have the whole production process documented from day** one so that any project manager could dig into the knowledge base to understand what the system is in order to sell it better. And that any creative with a working knowledge of After Effects could by themselves read the documentation and understand how to produce and Elements video from start to finish.
+For Elements we made it our goal from the start **to have the whole production process documented from day one** so that any project manager could dig into the knowledge base to understand what the system is in order to sell it better. And that any creative with a working knowledge of After Effects could by themselves read the documentation and understand how to produce and Elements video from start to finish.
 
 This took much longer that expected. But the end result is absolutely worth it, as it was clear for everyone at the company what is the process and end result of an Elements project. The end result if a heft 5000 word live document. This also ended up setting a new standard for how we document other processes at the company.
 
@@ -93,7 +93,7 @@ Consider documenting early and leaving enough lay time toward the end to complet
 
 ### Credits
 
-**Illustrations**
+**Illustrations**  
 [Bea Ramírez](https://dribbble.com/Beavaquero), [Nguyen Tran Kien](https://dribbble.com/Stairwaytohell), [Alejandro Bonilla](https://vimeo.com/alejandrobonilla), Carlos Saborío.
 
 **Animation Presets**  
@@ -105,8 +105,6 @@ Consider documenting early and leaving enough lay time toward the end to complet
 **Documentation**  
 [Jakub Skuropa](https://vimeo.com/jakubskorupa), [Alejandro Bonilla](https://vimeo.com/jakubskorupa), Carlos Saborío.
 
-
-### Notes
 [^1]: A big source of inspiration for the our initial push with how to tackle the system came from this talk by at the Figma XXX. Highly recommend it to anyone who wants to tackle an illustration system in Figma.
 [^2]: We studied tons of freely available illustrations systems built in Figma before building our own. Some of the best ones we ran into are: A, B, C.
 [^3]: For this Knowledge base we wrote it all down in Notion, which is by far my favorite tool for company wikis as using it is effortlessly. Another tool I could recommend although I don't have much real experience with is is Slab.
