@@ -93,11 +93,13 @@ Consider documenting early and leaving enough lay time toward the end to complet
 
 ### Credits
 
-#### Illustrations
+**Illustrations**
 Bea Ramirez, Kien Tran, Alejandro Segura, Carlos Saborío
-#### Animation Presets
+**Animation Presets**
 Jakub Skuropa, Kien Tran
-#### Documentation
+**Audio**
+Sebastian Bender
+**Documentation**
 Jakub Skuropa, Alejandro Bonilla, Carlos Saborío
 
 
