@@ -71,18 +71,18 @@ During the writing process we made sure the Knowledge Base would work for all th
 
 
 
-### Takeaways
+### Main Takeaways
 
-#### Be Open
+##### Be Open
 Form the creative department we initially had a lot of resistance toward this kind of massively produced projects. But what we found is the that investing so much time in the initial design process, making the production process so frictionless, the process became fun and we could invest more time in adding little details to make the animation more dynamic.
 
-#### Think Hard
+##### Think Hard
 Think hard before diving into production We spent a big chunk of time, perhaps 40% of the total of hours put into the project, figuring out the constraints for the system. We didn't want to start producing anything right away and figure out later down the road that the assets made could not be used because of some technical reason.
 
-#### Make it nice
+##### Make it nice
 Branding the individual styles and even the name of the system (Elements), imbues it with . Some client might feel bad about having to opt for the budget option, but when we worked to preset them with very distinct style options with different names as well as custom music tracks that were not simply called song-01, song-02 and song-03, we make the client (and us) feel that they didn't opt for the cheap alternative.
 
-#### Documentation, documentation, documentation
+##### Documentation is key
 Writing things down is a must. Big messy systems like Elements are very powerful, but poorly documented they might be hard to catch on company wide or worse, fail at actually be as efficient as originally intended.
 
 Consider documenting early and leaving enough lay time toward the end to complete documentation. Also, consider the different kinds of readers for this documentation inside your organization. The marketing department have and entirely separate set of needs when trying to understand a system like this ('What is so cool about this that will help me sell ir') in comparison to the creatives doing the production labor ('How to I produce an Elements video from start to finish in the fastest way possible').[^4]
